@@ -1,0 +1,7 @@
+
+*.pth
+*.pickle
+*.sqlite3
+ChatBotWebsite/settings.py
+*.pyc
+.vscode/*
